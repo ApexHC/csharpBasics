@@ -1,0 +1,15 @@
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net6.0\03_Operators.exe
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net6.0\03_Operators.deps.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net6.0\03_Operators.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net6.0\03_Operators.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net6.0\ref\03_Operators.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\bin\Debug\net6.0\03_Operators.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.csproj.AssemblyReference.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net6.0\ref\03_Operators.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\03_Operators\obj\Debug\net6.0\03_Operators.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\obj\Debug\net6.0\08_Classes.csproj.AssemblyReference.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\obj\Debug\net6.0\08_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\obj\Debug\net6.0\08_Classes.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\obj\Debug\net6.0\08_Classes.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\obj\Debug\net6.0\08_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\bin\Debug\net6.0\08_Classes.exe
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\bin\Debug\net6.0\08_Classes.deps.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\bin\Debug\net6.0\08_Classes.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\bin\Debug\net6.0\08_Classes.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\bin\Debug\net6.0\ref\08_Classes.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\bin\Debug\net6.0\08_Classes.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\obj\Debug\net6.0\08_Classes.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\obj\Debug\net6.0\ref\08_Classes.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\obj\Debug\net6.0\08_Classes.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\08_classes\obj\Debug\net6.0\08_Classes.genruntimeconfig.cache

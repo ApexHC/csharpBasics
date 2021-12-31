@@ -1,0 +1,15 @@
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\bin\Debug\net6.0\TypesChallenges.exe
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\bin\Debug\net6.0\TypesChallenges.deps.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\bin\Debug\net6.0\TypesChallenges.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\bin\Debug\net6.0\TypesChallenges.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\bin\Debug\net6.0\ref\TypesChallenges.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\bin\Debug\net6.0\TypesChallenges.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\obj\Debug\net6.0\TypesChallenges.csproj.AssemblyReference.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\obj\Debug\net6.0\TypesChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\obj\Debug\net6.0\TypesChallenges.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\obj\Debug\net6.0\TypesChallenges.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\obj\Debug\net6.0\TypesChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\obj\Debug\net6.0\TypesChallenges.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\obj\Debug\net6.0\ref\TypesChallenges.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\obj\Debug\net6.0\TypesChallenges.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\02_Types_Challenges\obj\Debug\net6.0\TypesChallenges.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\bin\Debug\net6.0\IfStatements.exe
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\bin\Debug\net6.0\IfStatements.deps.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\bin\Debug\net6.0\IfStatements.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\bin\Debug\net6.0\IfStatements.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\bin\Debug\net6.0\ref\IfStatements.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\bin\Debug\net6.0\IfStatements.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.csproj.AssemblyReference.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\ref\IfStatements.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.genruntimeconfig.cache

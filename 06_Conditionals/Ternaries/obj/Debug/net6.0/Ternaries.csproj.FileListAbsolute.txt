@@ -1,0 +1,15 @@
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.exe
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.deps.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\ref\Ternaries.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.csproj.AssemblyReference.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\ref\Ternaries.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\bin\Debug\net6.0\00_HelloWorld.exe
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\bin\Debug\net6.0\00_HelloWorld.deps.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\bin\Debug\net6.0\00_HelloWorld.runtimeconfig.json
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\bin\Debug\net6.0\00_HelloWorld.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\bin\Debug\net6.0\ref\00_HelloWorld.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\bin\Debug\net6.0\00_HelloWorld.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net6.0\00_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net6.0\00_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net6.0\00_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net6.0\00_HelloWorld.AssemblyInfo.cs
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net6.0\00_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net6.0\00_HelloWorld.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net6.0\ref\00_HelloWorld.dll
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net6.0\00_HelloWorld.pdb
+C:\Users\Ethan\OneDrive\Documents\ElevenFiftyAcademy\codingFoundations\dotnetProjects\csharpBasics\00_HelloWorld\obj\Debug\net6.0\00_HelloWorld.genruntimeconfig.cache
